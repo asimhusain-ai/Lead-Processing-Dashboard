@@ -174,7 +174,7 @@ Two main functionalities:
 ### Step-by-Step Setup
 ```bash
 # Clone repo
-git clone <repository-url>
+git clone https://github.com/asimhusain-ai/Lead-Processing-Dashboard.git
 cd lead-processing-dashboard
 
 # Create virtual environment
