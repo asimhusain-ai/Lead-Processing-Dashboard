@@ -1,0 +1,13 @@
+Name,Email,Phone,Company,Title,Email_lower,is_valid_email
+Alice Johnson,alice.johnson@example.com,5551234567,AlphaTech,CEO,alice.johnson@example.com,True
+Ana Morgan,ana.morgan@alphatech.com,5555678570,AlphaTech,CEO,ana.morgan@alphatech.com,True
+Blake Jordan,blake.jordan@betacorp.com,5550123019,BetaCorp,CEO,blake.jordan@betacorp.com,True
+Colin Stephens,colin.stephens@epsilonllc.com,5551234132,EpsilonLLC,CEO,colin.stephens@epsilonllc.com,True
+Dominic Chavez,dominic.c@zenith.co,5556789672,ZenithCorp,CEO,dominic.c@zenith.co,True
+Ezekiel Elliott,ezekiel.e@deltainc.com,5558901895,DeltaInc,CEO,ezekiel.e@deltainc.com,True
+Isla Long,isla.long@epsilonllc.com,5557890781,EpsilonLLC,CEO,isla.long@epsilonllc.com,True
+Logan Fisher,logan.fisher@zenith.co,5552345244,ZenithCorp,CEO,logan.fisher@zenith.co,True
+Lucas King,lucas.king@zenith.co,5552332332,ZenithCorp,CEO,lucas.king@zenith.co,True
+Melody Stone,melody.stone@vertex.net,5559012907,VertexVentures,CEO,melody.stone@vertex.net,True
+Riley Richardson,riley.r@vertex.net,5555678567,VertexVentures,CEO,riley.r@vertex.net,True
+Samuel Collins,samuel.collins@deltainc.com,5554564564,DeltaInc,CEO,samuel.collins@deltainc.com,True
