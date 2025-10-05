@@ -1,6 +1,10 @@
 # Lead Processing Dashboard 🚀  
 A powerful, modern web application for processing and filtering lead data with advanced data cleaning, validation, and filtering capabilities.  
 
+# Deployment
+- Powered by Flask & hosted seamlessly on Microsoft Azure App Service.
+- validleads.azurewebsites.net
+
 ![Version](https://img.shields.io/badge/Version-2.0.0-blue)  ![Python](https://img.shields.io/badge/Python-3.8%252B-green)  ![Flask](https://img.shields.io/badge/Flask-2.3.3-red)  ![Pandas](https://img.shields.io/badge/Pandas-2.0.3-orange)  
 
 ---
